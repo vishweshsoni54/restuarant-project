@@ -1,0 +1,232 @@
+@media screen and (min-width: 481px) and (max-width: 768px) {
+  .header {
+    font-size: 24px;
+    padding: 10px;
+  }
+  .main{
+    width: 100%;
+  }
+  .about {
+    padding: 15% 5%;
+  }
+  .about {
+    transform: translateY(100px);
+
+  }
+  .about h1 {
+    font-size: 4em;
+  }
+  .about p {
+    font-size: 2em;
+  }
+  .about .btn {
+    width: 40%;
+    height: 50px;
+    font-size: 1em;
+  }
+  .foodtypes {
+    height: auto;
+    padding: 30px 10px;
+  }
+  .parts h2 {
+    font-size: 2em;
+  }
+  .main2 {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .food img {
+    width: 180px;
+  }
+  .food p {
+    font-size: 1.2em;
+  }
+  .info {
+    width: 100%;
+  }
+  .health-container,
+  .health-container2 {
+    width: 40%;
+    flex-direction: column;
+    gap: 30px;
+    text-align: center;
+    margin-left: 90px;
+  }
+  .main3 h2,
+  .main4 h2 {
+    font-size: 1.5em;
+    width: 100%;
+  }
+  .main3 p,
+  .main4 p {
+    font-size: 1em;
+    width: 90%;
+  }
+  .main4 p {
+    margin-left: 20px;
+  }
+  .main3 p {
+    margin-left: 20px;
+  }
+  .healthy-img img,
+  .healthimg img {
+    width: 200px;
+    height: 200px;
+  }
+  .healthimg img {
+    margin-top: 30px;
+  }
+  .main4 {
+    margin-top: -65px;
+  }
+  .btn1 {
+    padding: 10px;
+    font-size: 0.6em;
+    margin-top: -90px;
+    margin-left: 10px;
+  }
+  .moreinfo {
+    height: auto;
+    padding: 40px 0;
+  }
+  .main5 {
+    position: static;
+    flex-direction: column;
+    align-items: center;
+    transform: translateY(-50px);
+    gap: 30px;
+    padding: 20px;
+  }
+  .info3 {
+    width: 80%;
+    margin: 0 auto;
+    padding: 15px 10px;
+  }
+  .statimg img {
+    width: 70px;
+    height: 70px;
+    padding: 15px;
+  }
+  .stattitle {
+    font-size: 1.3em;
+    margin-top: 8px;
+  }
+  .header1 {
+    font-size: 0.6em;
+    margin-top: -35px;
+  }
+  .info3 {
+    display: flex;
+    flex-direction: column;
+  }
+  .impact {
+    /* display: flex;
+    flex-wrap: wrap;
+     flex-direction: column; 
+    width: 90%;
+    gap: 30px; */
+    height: auto;
+    padding: 75px 0;
+  }
+  .reviews {
+    height: auto;
+    padding: 90px 0;
+  }
+  .achievement img {
+    width: 50px;
+    height: 50px;
+  }
+  .achievement p {
+    font-size: 16px;
+  }
+  .header2 h5 {
+    font-size: 2.5em;
+  }
+  .header2 {
+    font-size: 0.5em;
+    transform: translateY(-50px);
+  }
+  .custreviews {
+    width: 95%;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .info5 {
+    width: 80%;
+    padding: 10px;
+    height: auto;
+    margin-top: 40px;
+  }
+  .images {
+    margin-top: 60px;
+  }
+  .imgg {
+    grid-template-columns: 48% 48%;
+    gap: 10px;
+  }
+  .imgg img {
+    height: 200px;
+  }
+  .contact {
+    height: auto;
+    padding: 20px 0;
+    margin-top: -60px;
+  }
+  .header3 {
+    font-size: 1.5em;
+    /* margin-left: 30px; */
+  }
+  .info6 {
+    flex-direction: column;
+    gap: 40px;
+    width: 90%;
+    align-items: center;
+  }
+  .info7 p{
+    width: auto;
+  }
+  .info7 img {
+    width: 250px;
+    margin-left: 90px;
+    height: 250px;
+    margin-top: -30px;
+  }
+  .info7 p {
+    font-size: 1.2em;
+    width: 100%;
+    margin-top: 15px;
+    text-align: center;
+  }
+  .info8 p {
+    margin: 10px auto;
+    text-align: center;
+    width: 100%;
+  }
+  .info8 p h4 {
+    font-size: 1.2em;
+  }
+  .info8 {
+    width: 80%;
+    margin-top: 0;
+    text-align: left;
+    transform: translateX(-20px);
+  }
+  .info8 p{
+    text-align: left;
+  }
+  .info8 input {
+    width: 90%;
+    max-width: 350px;
+  }
+  .btn3 {
+    width: 90%;
+    margin-top: 10px;
+  }
+  .header4 p {
+    font-size: 17px;
+  }
+  .info10 h5 {
+    font-size: 13px;
+    margin-top: -30px;
+  }
+}
